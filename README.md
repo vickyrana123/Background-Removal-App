@@ -2,6 +2,10 @@ The Background Removal App is an AI-powered tool that automatically removes the 
 
 Users can upload any image, preview the cut-out result, and download the final image in high-quality PNG format with transparency preserved.
 
+Try the live app here:  
+
+https://e06b2e20354c7aa5ed.gradio.live/
+
 🔥 Features :
 
 🖼️ AI-powered background removal using REMBG
